@@ -1,3 +1,3 @@
 # This is my first line
 
-No one ever reads the README file
+no one reads the read me
